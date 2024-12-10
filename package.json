@@ -142,7 +142,7 @@
             {
                 "language": "extended",
                 "scopeName": "source.cs.extended",
-                "path": "./syntaxes/csharp.extended.tmLanguage"
+                "path": "./syntaxes/csharp.extended.tmLanguage.json"
             },
             {
                 "language": "csharp",
